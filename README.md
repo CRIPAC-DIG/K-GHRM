@@ -1,2 +1,2 @@
 # K-GHRM
-The source code of paper *Knowledge-aware Hierarchical Graph Relevance Matching for Ad-hoc Retrieval*.
+The source code for paper "Knowledge-aware Hierarchical Graph Relevance Matching for Ad-hoc Retrieval".
